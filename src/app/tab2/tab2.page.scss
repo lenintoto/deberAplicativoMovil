@@ -1,0 +1,47 @@
+.background-gradient {
+    background: linear-gradient(135deg, #74ebd5, #ACB6E5);
+    padding: 16px;
+  }
+  
+  .profile-section {
+    text-align: center;
+  }
+  
+  .profile-img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: 16px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .personal-info-list ion-item {
+    --border-radius: 12px;
+    margin-bottom: 10px;
+    background: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-custom {
+    --ion-background-color: #ffffff;
+    --ion-border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 16px;
+  }
+  
+  ion-avatar {
+    margin-right: 10px;
+  }
+  
+  ion-card-title {
+    font-size: 1.4rem;
+  }
+  
+  ion-footer {
+    background-color: #f1f1f1;
+  }
+  
+  h4 {
+    font-weight: bold;
+  }
+  
